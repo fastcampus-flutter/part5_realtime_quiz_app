@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>482913520229-21keugrl2p3306g5f78s2jjukm9gjbr1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.482913520229-21keugrl2p3306g5f78s2jjukm9gjbr1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB6U0I0rrfAC-zKdOCczt0Cs6uQP_nChK8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>482913520229</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fastcampus.fastcampusRealtimeQuizApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>fastcampus-realtime-quiz-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fastcampus-realtime-quiz-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:482913520229:ios:9382a6b490eac2d5b6d48c</string>
+	<key>DATABASE_URL</key>
+	<string>https://fastcampus-realtime-quiz-app-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
