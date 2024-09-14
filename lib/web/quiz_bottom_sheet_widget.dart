@@ -98,7 +98,9 @@ class _QuizBottomSheetWidgetState extends State<QuizBottomSheetWidget> {
               });
             },
           ),
-          ButtonBar(
+          /// 2024-09-14 ButtonBar 에서 OverflowBar로 변경
+          /// why: deprecated ButtonBar widget 
+          OverflowBar(
             children: [
               TextButton(
                 onPressed: () => addOption(),
